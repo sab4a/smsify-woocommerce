@@ -20,3 +20,6 @@ Sends WooCommerce order status notifications as SMS , to administrator and clien
 2. Activate the plugin through the 'Plugins' screen in WordPress
 3. Use the WooCommerce->SMSIFY Name screen to configure the plugin
 
+
+
+Official plugin url https://wordpress.org/plugins/smsify-woocommerce/

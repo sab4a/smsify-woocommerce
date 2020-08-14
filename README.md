@@ -1,16 +1,6 @@
 # smsify-woocommerce
 
 
-=== SMSIFY WooCommerce ===
-Contributors: inkdotge
-Tags: WooCommerce, e-Commerce, SMS, SMS notifications, SMS gateway, SMS woocommerce notification georgia, 
-Tested up to: 5.4.2
-Stable tag: 1.4.1
-Requires at least: 4.0
-License: GPLv3
-License URI: http://www.gnu.org/licenses/gpl-3.0.html
-
-
 == Description ==
 
 Sends WooCommerce order status notifications as SMS , to administrator and clients , Using the https://smsoffice.ge/ API as SMS gateway.
@@ -21,10 +11,6 @@ Sends WooCommerce order status notifications as SMS , to administrator and clien
 
 * TOS - http://smsoffice.ge/terms/ 
 * Privacy Policy - http://smsoffice.ge/privacy/
-
-
-
-
 
 
 == Installation ==
